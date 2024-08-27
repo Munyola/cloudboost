@@ -103,7 +103,7 @@
     "phantomjs-prebuilt": "*",
     "publish": "^0.6.0",
     "uglifyjs-webpack-plugin": "^2.1.2",
-    "webpack": "~1.13.1",
+    "webpack": "~5.94.0",
     "webpack-dev-server": "~1.14.1"
   },
   "scripts": {
