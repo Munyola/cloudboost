@@ -82,7 +82,7 @@
     "babel-preset-es2015-without-strict": "0.0.4",
     "chai": "^3.5.0",
     "chance": "^1.0.1",
-    "eslint": "^5.16.0",
+    "eslint": "^9.39.2",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.1",
     "grunt": "^1.0.4",
