@@ -68,7 +68,7 @@
     "socket.io-redis": "^5.2.0",
     "underscore": "^1.7.0",
     "url-parse": "^1.4.6",
-    "uuid": "^2.0.1",
+    "uuid": "^14.0.0",
     "web-push": "^2.2.0",
     "winston": "^1.1.2",
     "winston-bishop-slack": "^0.2.1",
